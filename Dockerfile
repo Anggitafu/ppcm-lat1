@@ -1,6 +1,6 @@
 From alpine
 
-LABEL Maintainer="anggi"
+LABEL Maintainer="anggi" \
         Kelas="Pengantar Cloud Computing"
 
 WORKDIR /fileku
